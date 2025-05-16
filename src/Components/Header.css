@@ -1,0 +1,5 @@
+.HeaderComp {
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+}
